@@ -1,0 +1,25 @@
+Kotlin is a static typed language used in Android and Server side programming language.
+It is 100% interoperable with java.
+Kotlin need JVM to run its bytecode.
+It is both Functional and Object Oriented programming language.
+
+Kotlin compiler (kotlinc) convertes kotlin source code (.kt) into JVM bytecode (.class) which is executed in JVM.
+
+It has 61 keywords
+
+*Visibility Modifiers-
+     4 types -> public , private , internal , protected
+
+    - class members
+        public -> access everywhere
+        private -> within a class
+        protected -> only in subclass
+        internal -> within a module
+
+    - top level declaration (outside class)
+        public -> access everywhere
+        private -> within a file
+        protected -> N/A
+        internal -> within a module
+
+
